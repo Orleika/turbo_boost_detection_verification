@@ -18,7 +18,7 @@ def get_std(tb):
         ave[key] = np.average(np.array(value))
     for key, value in sorted(std.items(), key = lambda x:x[1]):
         print key, value
-    for key
+    # for key
 
 def main():
     get_std(True)
