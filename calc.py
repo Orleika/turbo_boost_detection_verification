@@ -12,7 +12,7 @@ def main():
     result = []
 
     for data in db.lancers.find():
-        row = '\t'.join([httpagentparser.detect(data['http_User-Agent'])['browser']['name'], str(data['tb']), str(data['model']), str(data['octane_Gameboy']), str(data['octane_CodeLoad'])]) + '\n'
+        row = '\t'.join([httpagentparser.detect(data['http_User-Agent'])['browser']['name'], str(data['tb']), str(data['model']), str(data['RegExp']), str(data['NavierStokes'])]) + '\n'
         result.append(row.encode('utf8'))
 
     f = open('./result.txt', 'w')

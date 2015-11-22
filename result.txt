@@ -1,0 +1,350 @@
+Microsoft Internet Explorer	2	i5-3570K	1963	27695
+Chrome	2	i5-3230M	3441	23797
+Firefox	1	i5-480M	1721	18310
+Microsoft Internet Explorer	1	i5-560M	1410	18957
+Firefox	2	i7-3632QM	1330	12048
+Firefox	1	i5-560M	1951	22364
+Chrome	2	i5-2320	3377	20357
+Chrome	2	i5-3230M	3445	23892
+Chrome	0	Core 2 Duo P8600	1491	11925
+Chrome	2	i7-3770	4116	29118
+Chrome	1	i5-460M	2264	19866
+Chrome	2	i7-3770	4071	28641
+Chrome	2	i7-3770	4161	29206
+Chrome	0	i3-370M	2127	17129
+Chrome	1	i5-560M	2693	22831
+Chrome	0	Pentium D 960	1601	14662
+Chrome	2	i7-2670QM	3102	21685
+Chrome	2	i5-2450M	3114	22785
+Chrome	2	i5-3230M	2872	19787
+Chrome	2	i5-2430M	2782	20628
+Chrome	0	Core 2 Duo E4500	1938	15520
+Microsoft Internet Explorer	0	Core 2 Duo E6400	908	12453
+Microsoft Internet Explorer	0	Celeron B800	777	10128
+Chrome	2	i5-3230M	3193	19806
+Chrome	2	i5-2450M	2965	22831
+Chrome	2	i5-3230M	3421	23750
+Firefox	0	Pentium E5200	1569	15047
+Microsoft Internet Explorer	0	i3-380M	1146	15149
+Chrome	2	i5-3230M	3404	23897
+Chrome	2	i5-2500	3762	26807
+Firefox	0	i3-3240	2376	27278
+Firefox	2	i5-2320	2567	23549
+Chrome	1	i5-460M	2409	20162
+Chrome	2	i7-3630QM	1386	8981
+Firefox	2	i5-3570K	3250	29887
+Firefox	2	i5-2400S	2818	25376
+Chrome	2	i5-2320	3401	24017
+Chrome	0	Celeron 1005M	2077	13880
+Chrome	2	i7-4800MQ	4595	28231
+Microsoft Internet Explorer	2	i7-3632QM	805	11167
+Firefox	2	i7-3770	3318	30744
+Firefox	2	i7-3770	3341	30892
+Chrome	2	i5-2500	3852	26928
+Chrome	0	i3-370M	1465	12636
+Chrome	0	Pentium G640	2898	20883
+Chrome	2	i5-3230M	3407	23945
+Chrome	2	i5-3230M	3424	23892
+Chrome	2	i5-3230M	3421	23892
+Chrome	1	i5-560M	2701	22660
+Chrome	2	i7-3930K	3662	26362
+Chrome	2	i5-2500	3709	27009
+Chrome	2	i5-2500	3792	26874
+Chrome	0	Celeron G1610	2744	19767
+Safari	2	i5-4250U	1565	20377
+Chrome	2	i7-3770	4210	24783
+Chrome	2	i7-3770	4231	29176
+Chrome	2	i5-3210M	3728	23626
+Chrome	1	i5-560M	2623	22785
+Chrome	0	Celeron 430	1407	11347
+Firefox	2	i7-3520M	2906	28703
+Chrome	1	i5-560M	1290	22854
+Chrome	2	i5-2500	3731	26606
+Chrome	2	i5-4300U	2600	22705
+Firefox	2	i7-2670QM	2430	21623
+Microsoft Internet Explorer	0	i3-2350M	1182	15164
+Microsoft Internet Explorer	0	Celeron B800	756	10128
+Chrome	2	i7-3770	4137	29118
+Microsoft Internet Explorer	0	i3-4025	1121	14413
+Firefox	1	i5-480M	1797	19600
+Firefox	1	i5-480M	1771	19866
+Firefox	2	i5-3470U	3040	28790
+Chrome	2	i7-4790	4550	29383
+Chrome	2	i7-3610QM	3404	23774
+Safari	2	i5-3210M	1800	24017
+Microsoft Internet Explorer	2	i5-3570K	2015	27788
+Microsoft Internet Explorer	2	i5-2500K	1568	21645
+Chrome	2	i5-2450M	3082	22364
+Firefox	2	i7-3770	3337	30570
+Firefox	2	i7-3770	3321	30836
+Firefox	2	i5-3210M	2588	26092
+Firefox	2	i5-3570K	3144	29917
+Chrome	2	i5-3210M	2419	19974
+Firefox	2	i5-2400S	2933	25376
+Microsoft Internet Explorer	1	i5-560M	1357	20250
+Chrome	2	i5-2320	3361	24017
+Chrome	0	Celeron 1037U	1281	9092
+Firefox	2	i7-3770	3135	30744
+Chrome	0	i3-3217U	1765	11097
+Chrome	2	i5-2500	3856	26901
+Chrome	1	i5-560M	2521	18938
+Microsoft Internet Explorer	2	i7-2600	1879	24783
+Microsoft Internet Explorer	0	Core 2 Duo E6700	1186	15737
+Microsoft Internet Explorer	2	i7-4790	2218	28231
+Firefox	1	i5-480M	1735	18126
+Microsoft Internet Explorer	1	i5-560M	1351	20182
+Microsoft Internet Explorer	2	i5-3570K	2001	27547
+Microsoft Internet Explorer	2	i5-2400	1692	22216
+Chrome	2	i5-2320	3367	23993
+Firefox	2	i7-2670QM	2304	21645
+Firefox	2	i5-3570K	3061	29917
+Firefox	0	Core 2 Duo E6700	1624	15784
+Firefox	2	i5-4460	2543	31102
+Microsoft Internet Explorer	2	i7-2630QM	1403	18568
+Firefox	1	i5-480M	1740	18716
+Microsoft Internet Explorer	0	Celeron 1000M	953	12885
+Microsoft Internet Explorer	2	i5-3230M	650	8833
+Microsoft Internet Explorer	0	Celeron B800	783	9962
+Firefox	2	i5-2320	2562	23673
+Firefox	2	i5-3570K	3079	29828
+Microsoft Internet Explorer	1	i5-560M	1364	20398
+Firefox	0	Core 2 Duo E6400	1363	12762
+Chrome	0	Atom N270	547	3839
+Chrome	2	i7-3632QM	3497	23058
+Firefox	2	i5-2400S	2875	25178
+Chrome	0	i3-2367M	1340	9146
+Chrome	1	i5-560M	2690	22637
+Chrome	2	i7-3770	4116	29147
+Chrome	2	i5-2500	3744	26860
+Chrome	2	i5-2400	3511	24733
+Chrome	2	i5-3210M	3733	23774
+Chrome	1	i5-560M	2646	22740
+Chrome	2	i5-2500K	2372	16702
+Chrome	2	i5-2400	3720	24783
+Chrome	2	i5-3470U	3859	27049
+Chrome	2	i5-2500K	2340	14380
+Chrome	2	i7-3770	4137	29266
+Chrome	2	i5-2500K	2246	14810
+Chrome	2	i5-4570	4108	27372
+Microsoft Internet Explorer	2	i7-2670QM	1179	14692
+Chrome	2	i5-2500K	1982	15637
+Chrome	2	i5-2500	3740	26780
+Microsoft Internet Explorer	0	i3-380M	1141	16095
+Chrome	1	i5-560M	2562	22683
+Chrome	2	i5-2500K	2324	15995
+Chrome	2	i5-3210M	3822	23720
+Firefox	2	i5-2400S	2909	25376
+Firefox	0	Core 2 Duo E6700	801	7546
+Firefox	2	i5-2320	2536	23673
+Microsoft Internet Explorer	0	Celeron B800	777	10138
+Chrome	1	i5-560M	2538	21284
+Firefox	1	i5-560M	1976	22740
+Chrome	2	i7-3770	4099	29089
+Microsoft Internet Explorer	2	i7-4800MQ	2117	27936
+Firefox	2	i5-2320	2536	23945
+Microsoft Internet Explorer	1	i5-560M	1372	20142
+Chrome	2	i7-3770	4248	29028
+Chrome	0	i3-3120M	2372	18863
+Chrome	2	i5-3210M	3792	23774
+Firefox	2	i5-3570K	3138	29799
+Firefox	2	i7-2670QM	2467	22445
+Microsoft Internet Explorer	0	Core 2 Duo E8400	1305	17684
+Chrome	0	i3-350M	1982	16047
+Microsoft Internet Explorer	2	i5-3570K	2000	26162
+Firefox	1	i5-480M	1661	19639
+Firefox	2	i5-2320	2472	23821
+Microsoft Internet Explorer	0	Celeron N2815	580	7633
+Microsoft Internet Explorer	2	i5-3570K	2013	27613
+Microsoft Internet Explorer	0	Celeron B800	917	10158
+Firefox	2	i5-3570K	3129	29887
+Microsoft Internet Explorer	0	Celeron P4600	862	12699
+Microsoft Internet Explorer	1	i5-560M	1391	19717
+Firefox	1	i5-480M	1790	19124
+Microsoft Internet Explorer	2	i7-3610QM	1700	23058
+Chrome	1	i5-560M	1118	22717
+Firefox	1	i5-560M	1998	22512
+Firefox	2	i7-3770	3337	30719
+Microsoft Internet Explorer	1	i5-560M	1391	19344
+Microsoft Internet Explorer	1	i5-560M	1393	19273
+Microsoft Internet Explorer	0	Celeron B800	778	10081
+Chrome	2	i5-2320	3441	24117
+Safari	2	i7-3615QM	1940	25127
+Microsoft Internet Explorer	1	i5-430M	963	15076
+Firefox	2	i5-3570K	3097	29917
+Firefox	0	Core 2 Duo P8700	1496	15504
+Microsoft Internet Explorer	2	i5-3570K	2003	27640
+Firefox	2	i7-3770	3327	30744
+Microsoft Internet Explorer	2	i5-4670	2239	28613
+Firefox	2	i5-3210M	2674	26040
+Firefox	2	i5-4670	1847	30361
+Firefox	2	i5-2320	2588	23572
+Microsoft Internet Explorer	0	Celeron B800	780	10108
+Microsoft Internet Explorer	0	Core 2 Duo E6300	828	10884
+Chrome	2	i5-2500	3644	26564
+Firefox	2	i5-3210M	2684	26092
+Microsoft Internet Explorer	0	i3-3240	1752	25326
+Firefox	2	i5-3570K	3117	29887
+Microsoft Internet Explorer	0	Pentium 3558U	781	11529
+Microsoft Internet Explorer	2	i5-3570K	1965	27520
+Microsoft Internet Explorer	2	i5-2400	1762	22534
+Firefox	2	i7-3770	3371	30719
+Firefox	2	i5-2320	2557	23720
+Microsoft Internet Explorer	0	Celeron B800	781	10148
+Microsoft Internet Explorer	0	i3-3217U	977	13343
+Chrome	2	i7-3770	4083	28703
+Chrome	2	i5-2467M	1520	14884
+Chrome	2	i7-3770	4112	28823
+Firefox	0	Core 2 Duo E6400	1327	12796
+Chrome	0	i3-3217U	1313	13116
+Chrome	1	i5-560M	2608	22149
+Chrome	2	i7-3820	3906	27723
+Firefox	0	Core 2 Duo E8400	1790	17938
+Microsoft Internet Explorer	2	i5-4440	1783	23354
+Microsoft Internet Explorer	0	Core 2 Duo E6400	952	12404
+Microsoft Internet Explorer	2	i5-4440	1595	23649
+Microsoft Internet Explorer	2	i7-4702MQ	1866	23750
+Microsoft Internet Explorer	2	i7-2630QM	1430	18347
+Firefox	1	i5-480M	1786	20418
+Chrome	0	Celeron E3300	2087	17112
+Firefox	2	i7-2670Q	2186	21602
+Firefox	2	i5-4440	2847	25376
+Chrome	2	i7-3930K	4170	29710
+Chrome	2	i5-4460	4210	26362
+Microsoft Internet Explorer	0	Celeron B800	757	9943
+Chrome	2	i5-4570	4083	23478
+Firefox	2	i5-3210M	2300	24561
+Firefox	2	i5-2400S	2898	24634
+Firefox	0	Celeron B830	656	12489
+Firefox	2	i7-2670QM	2467	22445
+Microsoft Internet Explorer	2	i7-3632QM	1731	23602
+Microsoft Internet Explorer	2	i5-4440	1493	23525
+Firefox	1	i5-480M	1715	18828
+Firefox	2	i5-4670	3273	30775
+Chrome	0	Core 2 Duo E6400	1959	15076
+Chrome	2	i7-3770	4108	29057
+Chrome	0	i3-2350M	1699	16947
+Chrome	2	i5-2450M	3135	22216
+Chrome	2	i7-3632QM	2895	20947
+Firefox	0	Celeron P4600	1366	14218
+Chrome	0	Core 2 Duo E8500	2637	22408
+Safari	2	i5-3210M	1700	23945
+Firefox	2	i5-4440	2833	25398
+Microsoft Internet Explorer	2	i7-3610QM	1715	23502
+Firefox	1	i5-480M	1776	18901
+Microsoft Internet Explorer	0	Pentium P6200	1005	13491
+Microsoft Internet Explorer	2	i5-2410M	1376	18439
+Firefox	0	Celeron 1000M	1533	14380
+Microsoft Internet Explorer	2	i5-2450M	1230	17607
+Chrome	2	i5-4430	3988	25326
+Chrome	2	i5-2450M	3151	22534
+Chrome	0	Celeron 1000M	2017	13612
+Chrome	0	i3-3217U	2141	13639
+Chrome	1	i5-560M	2685	22865
+Safari	2	i5-3210M	1664	24017
+Chrome	0	Core 2 Duo E6400	1961	15002
+Firefox	2	i5-3230M	872	9617
+Firefox	1	i5-560M	1976	22592
+Chrome	2	i5-2320	3337	24093
+Microsoft Internet Explorer	0	i3-370M	1100	15017
+Chrome	0	i3-4150	3949	24093
+Safari	2	i5-3427U	1586	20903
+Chrome	2	i5-2500	3844	26901
+Microsoft Internet Explorer	0	Celeron B800	956	10138
+Chrome	2	i7-3770	4027	28971
+Firefox	1	i5-480M	1754	19105
+Firefox	2	i5-3570K	3055	29887
+Firefox	2	i7-2670QM	2320	21454
+Firefox	2	i7-2670QM	2262	21771
+Firefox	2	i7-4770K	3493	31188
+Firefox	2	i5-2320	2577	23821
+Firefox	1	i5-560M	2019	22660
+Microsoft Internet Explorer	0	i3-2310M	1109	14246
+Microsoft Internet Explorer	2	i5-3570K	2002	27399
+Firefox	1	i5-560M	2000	22489
+Firefox	1	i5-480M	1702	18716
+Chrome	2	i5-4670	4809	29443
+Firefox	2	i5-3570K	3061	29887
+Microsoft Internet Explorer	0	Celeron B800	771	10118
+Firefox	1	i5-560M	2009	22489
+Microsoft Internet Explorer	1	i5-560M	1425	20162
+Firefox	2	i7-3770	3234	30657
+Chrome	2	i5-2320	3427	24017
+Microsoft Internet Explorer	2	i5-3570K	1976	27197
+Microsoft Internet Explorer	1	i5-560M	1370	20014
+Firefox	2	i7-3770	3361	30688
+Firefox	1	i5-560M	1936	22489
+Firefox	0	Pentium P6200	1354	14677
+Safari	2	i5-3210M	1765	24069
+Microsoft Internet Explorer	2	i5-3570K	2009	27372
+Firefox	2	i5-2320	2598	23697
+Firefox	1	i5-480M	1783	19234
+Microsoft Internet Explorer	1	i5-560M	1411	20082
+Chrome	2	i5-2320	3431	24041
+Firefox	2	i7-3630QM	2460	25275
+Firefox	1	i5-560M	1971	22467
+Firefox	2	i5-2320	2538	23797
+Microsoft Internet Explorer	2	i5-4460	1996	25770
+Chrome	2	i5-2500K	3480	26162
+Microsoft Internet Explorer	0	Celeron B800	779	10108
+Firefox	2	i7-2670QM	1767	16227
+Firefox	0	Pentium D 820	971	9488
+Chrome	2	i5-2430M	2089	21602
+Chrome	0	Pentium 3556U	921	8350
+Microsoft Internet Explorer	2	i7-2670QM	1554	19767
+Firefox	2	i5-2500K	2320	25398
+Microsoft Internet Explorer	2	i7-3632QM	1749	23150
+Microsoft Internet Explorer	2	i5-2500K	1907	23572
+Microsoft Internet Explorer	2	i5-2500K	1674	21941
+Microsoft Internet Explorer	2	i5-2430M	1515	19273
+Chrome	2	i5-2450M	3135	22683
+Safari	2	i5-4250U	1692	20418
+Chrome	0	i3-2350M	2404	17180
+Chrome	2	i7-2670QM	2379	16259
+Firefox	0	i3-3120M	2104	20034
+Chrome	2	i5-4300U	3587	22615
+Microsoft Internet Explorer	2	i5-4440	1848	24980
+Chrome	2	i5-4570	4174	27372
+Microsoft Internet Explorer	2	i7-3610QM	1727	23720
+Microsoft Internet Explorer	2	i5-2450M	460	6262
+Chrome	2	i7-4800MQ	4618	28761
+Safari	2	i7-3615QM	1894	25545
+Microsoft Internet Explorer	0	Core 2 Duo E6400	958	12674
+Firefox	0	Pentium P6100	1392	14204
+Chrome	2	i7-3630QM	3511	24338
+Chrome	2	i7-3615QM	3601	24906
+Firefox	2	i7-3630QM	2695	26092
+Microsoft Internet Explorer	2	i7-4800MQ	2121	27844
+Chrome	0	Pentium P6200	1892	15092
+Chrome	2	i7-3770	4161	24462
+Firefox	2	i5-3570K	2971	29887
+Chrome	1	i5-460M	2315	20082
+Firefox	2	i7-3632QM	2698	25499
+Microsoft Internet Explorer	2	i7-3770	1990	28344
+Chrome	0	Pentium D 960	1617	14428
+Chrome	2	i5-2450M	3173	22717
+Chrome	2	i7-2670QM	2379	16472
+Firefox	0	Core 2 Duo E6400	1225	12514
+Chrome	2	i5-2450M	3176	22297
+Chrome	2	i7-4790	4605	29739
+Firefox	2	i7-2670Q	2184	21475
+Chrome	2	i7-2600	3833	27427
+Firefox	2	i5-4440	2742	24881
+Microsoft Internet Explorer	2	i5-3427U	580	8358
+Chrome	2	i5-4440	2919	25622
+Firefox	2	i7-2670QM	1809	16291
+Chrome	0	Core 2 Duo E6400	1935	15076
+Microsoft Internet Explorer	2	i5-3570K	2011	27547
+Firefox	2	i7-3630QM	2861	26712
+Microsoft Internet Explorer	0	i3-3217U	985	13276
+Firefox	2	i7-3770	3022	29473
+Microsoft Internet Explorer	2	i7-3632QM	1712	23354
+Microsoft Internet Explorer	2	i7-3632QM	807	11031
+Firefox	2	i5-3210M	2695	26092
+Firefox	0	i3-3240	2679	27224
+Firefox	1	i5-480M	1827	20862
+Microsoft Internet Explorer	0	Pentium 2117U	987	13142
+Firefox	2	i5-4440	2841	25744
+Firefox	1	i5-480M	1850	20628
+Microsoft Internet Explorer	0	Xeon 5160	1110	16918
+Chrome	2	i5-3210M	3811	23424
+Firefox	2	i7-3630QM	2322	24807
