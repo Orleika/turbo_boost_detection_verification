@@ -11,17 +11,20 @@ def get_std(tb):
     for data in db.statics.find({'tb': tb}):
         for score in data['scores']:
             dict[score['name']].append(int(score['score']))
-    std = {}
-    ave = {}
+    result = []
     for key, value in dict.iteritems():
-        std[key] = np.std(np.array(value))
-        ave[key] = np.average(np.array(value))
-    for key, value in sorted(std.items(), key = lambda x:x[1]):
-        print key, value
-    # for key
+        result.append(key + '\t' + '\t'.join(map(str, value)) + '\n')
+    f = open('./statics.txt', 'w')
+    f.writelines(result)
+    f.close()
+
+        # std[key] = np.std(np.array(value))
+        # ave[key] = np.average(np.array(value))
+    # for key, value in sorted(std.items(), key = lambda x:x[1]):
+    #     print key, value
 
 def main():
-    get_std(True)
+    get_std(False)
 
 if __name__ == '__main__':
     main()
