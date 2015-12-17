@@ -1,4 +1,4 @@
-var result = db.origin.find({}, {
+var result = db.origin.find({"model": {$ne: ""}}, {
   "model": 1,
   "http_User-Agent": 1,
   "octane_RegExp": 1,
@@ -18,7 +18,9 @@ var result = db.origin.find({}, {
   "octane_Splay": 1,
   "octane_SplayLatency": 1,
   "octane_zlib": 1,
-  "octane_score": 1
+  "octane_score": 1,
+  "4thUpdate": 1,
+  "5thUpdate": 1
 });
 DBQuery.shellBatchSize = result.count();
 shellPrint(result);
